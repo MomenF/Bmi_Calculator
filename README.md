@@ -1,2 +1,3 @@
 # Bmi_calculator
- this app for calculate the fats
+ This app for calculate the fats
+ For more info please contact me at : momenmfarid@gmail.com
